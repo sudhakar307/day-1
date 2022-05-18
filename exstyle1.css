@@ -1,0 +1,54 @@
+body{
+    background-color:skyblue ;
+    text-align: center;
+    text-decoration-color:whitesmoke;
+}
+
+#kkk{
+    background-color: aqua;
+}
+#fss{
+    background-color: lightblue;
+    color: white;
+}
+input[type=text] {
+    width: 25%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
+  input[type=email] {
+    width: 25%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
+  #kkk
+  {
+    width: 25%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    background-color: blue;
+    color: white;
+  }
+  #fss
+  {
+    width: 10%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    text-align: left;
+    background-color: ;
+}
+#fsk
+{
+    width: 10%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    text-align: left;
+    background-color:lightblue;
+    color:white
+}
+

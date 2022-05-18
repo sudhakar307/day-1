@@ -1,0 +1,52 @@
+body{
+    background-color: black;
+    text-align: center;
+}
+input[type=text] {
+    width: 25%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
+  header{
+      text-align: center;
+  }
+  #raja
+  {
+      text-align: center;
+      padding-left: 40px;
+      margin-left: 40px;
+  }
+  .c1{
+      padding-left: 550px;
+      text-size-adjust: 500;
+  }
+  #fss{
+      width: 50%;
+      background-color: aquamarine;
+      color: white;
+      
+  }
+  #fsd{
+    width: 20%;
+    background-color:aquamarine;
+    color: white;
+}
+#SB
+{
+    background-color: aquamarine;
+    
+}
+#fnme
+{
+    width: 50%;
+    color: white;
+}
+#fme
+{
+    width: 50%;
+    color: white;
+}
+h1{
+    color: white;
+}

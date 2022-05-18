@@ -1,0 +1,56 @@
+body{
+    background-color:grey;
+    text-align: center;
+}
+#sbb{
+    background-color: blue;
+    text-decoration-color: whitesmoke;
+    width: 50%;
+}
+input[type=text] {
+    width: 25%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
+  input[type=email] {
+    width: 25%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
+  input[type=password] {
+    width: 25%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
+  input[type=register] {
+    width: 12.5%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
+  #sba
+  {
+      width:25%;
+      padding: 12px 20px;
+      margin: 8px 0;
+      box-sizing: border-box;
+      background-color: #3f56d8;
+  }
+  #sbc
+  {
+    width:12%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
+  #sbb
+  {
+    width:12%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    background-color: blue;
+  }
